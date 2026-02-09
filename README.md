@@ -18,10 +18,10 @@ I’m Paras — I enjoy building things where **clarity, systems, and scale** ma
 ## 🌐 Find Me Around
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/paras-tiwari-69b0162a1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/Paras-Tiwari-18" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:parastiwari579@gmail.com">
