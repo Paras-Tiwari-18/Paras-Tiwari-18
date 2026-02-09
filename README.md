@@ -47,7 +47,7 @@ I’m Paras — I enjoy building things where **clarity, systems, and scale** ma
 ### AI / Systems
 - Retrieval-Augmented Generation
 - Embedding-based search
-- LangChain workflows
+- LangChain/LangGraph workflows
 - Model-driven pipelines
 
 ### Dev & Infra
