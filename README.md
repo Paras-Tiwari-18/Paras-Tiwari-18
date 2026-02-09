@@ -1,17 +1,19 @@
 ## 🧠 About
 
-I like building systems where **logic matters more than hype**.
+## Hi there 👋
 
-Most of my work sits around:
-- intelligent backends
-- LLM-driven applications
-- full-stack systems that don’t fall apart under real usage
+I’m Paras — I enjoy building things where **clarity, systems, and scale** matter more than buzzwords.
 
-I care about **clarity in code**, **intentional architecture**, and understanding *why* a solution works — not just making it pass.
+- 🔭 Currently working on intelligent backend systems and LLM-powered applications  
+- 🌱 Learning how to design better RAG pipelines, agent workflows, and scalable APIs  
+- 👯 Open to collaborating on AI, backend, or full-stack projects that solve real problems  
+- 🤔 Curious about system design decisions behind production-grade software  
+- 💬 Ask me about C++, backend architecture, RAG systems, or problem-solving approaches  
+- 📫 How to reach me: **parastiwari579@gmail.com**  
+- ⚡ Fun fact: I like understanding *why* a solution works more than writing the solution itself  
 
-I’m constantly experimenting, breaking assumptions, and tightening feedback loops between ideas and implementation.
+> *Build less. Understand more. Improve continuously.*
 
----
 
 ## 🌐 Find Me Around
 
