@@ -10,7 +10,6 @@ I’m Paras — I enjoy building things where **clarity, systems, and scale** ma
 - 🤔 Curious about system design decisions behind production-grade software  
 - 💬 Ask me about C++, backend architecture, RAG systems, or problem-solving approaches  
 - 📫 How to reach me: **parastiwari579@gmail.com**  
-- ⚡ Fun fact: I like understanding *why* a solution works more than writing the solution itself  
 
 > Understand more. Build better. Improve always.
 
