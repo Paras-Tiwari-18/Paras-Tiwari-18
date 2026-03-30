@@ -12,7 +12,7 @@ I’m Paras — I enjoy building things where **clarity, systems, and scale** ma
 - 📫 How to reach me: **parastiwari579@gmail.com**  
 - ⚡ Fun fact: I like understanding *why* a solution works more than writing the solution itself  
 
-> *Build less. Understand more. Improve continuously.*
+> Understand more. Build better. Improve always.
 
 
 ## 🌐 Find Me Around
@@ -59,5 +59,5 @@ I’m Paras — I enjoy building things where **clarity, systems, and scale** ma
 
 ## 🧩 Philosophy
 
-> *Code is a liability until it proves useful.*  
-> *I try to write less of it — and make it count.*
+> I don’t know everything — but I learn what’s needed, when it’s needed.  
+> And once I commit, I don’t quit.
